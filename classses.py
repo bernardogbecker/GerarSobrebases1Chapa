@@ -1,0 +1,21 @@
+class DadosParaDesenho3D():
+    rectFrontY = 0
+    rectFrontX = 0
+    rectFrontPos = [0,0]
+    rectH = 0
+    middlePoint = [0,0]
+    holeMotorFromCenter = [0,0]
+    holeBaseFromCenter = [0,0]
+    cotaKMotor = 0
+    cotaKBase = 0
+    cotaKMaxBase = 0
+    rebaixoHBase = 0
+    rectBackY = 0
+    rectBackX = 0
+    rectBackPos = [0,0]
+    holeMotorFromCenterBack1 = [0,0]
+    holeMotorFromCenterBack2 = [0,0]
+    holeBaseFromCenterBack = [0,0]
+    latConDim = [0, 0, 0]
+    lonConDim = [0,0, 0]
+    furosComRebaixo = [0, 0, 0, 0]
